@@ -1,3 +1,8 @@
+black
 kaggle
 pandas
 numpy
+plotly
+scipy
+jupyter
+tqdm
