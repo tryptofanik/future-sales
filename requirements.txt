@@ -6,3 +6,8 @@ plotly
 scipy
 jupyter
 tqdm
+seaborn
+statsmodels
+sklearn
+scipy
+matplotlib
